@@ -217,3 +217,7 @@ span a {
 .menu-burger button:hover {
     background-color: #444;
 }
+
+.blue {
+    color: blue !important;
+}
